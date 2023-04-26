@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+html, body{
+    font-family: Century Gothic;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    position: absolute;
+    background-color: rgba(2, 2, 95, 0.808);
+    height: 120px;
+    width: 100%;
+}
+
+.p1{
+    font-size: 30px;
+}
+
+#img1{
+    margin: auto;
+    display: block;
+    width: 7.5%;
+    position: relative;
+    bottom: 12px;
+}
+
+.img2{
+    width: 25%;
+    position: relative;
+    left: 255px;
+}
+
+#sep1{
+    position: relative;
+    top: 150px;
+    margin-left: 360px;
+}
+
+.paragrafo1{
+    display: inline-block;
+    width: 15%;
+    height: 50px;
+    margin-left: 150px;
+    padding-top: 25px;
+    background-color: rgba(2, 2, 95, 0.808);
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+}
+
+.paragrafo1:hover{
+    background-color: black;
+}
+
